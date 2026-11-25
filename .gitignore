@@ -3,3 +3,7 @@ _pycache_/
 .pyc
 .ipynb_checkpoints/
 hello.txt
+data/raw/
+data/processed/
+models/
+.env
